@@ -1,5 +1,18 @@
 # Hierrarchy in Azure
 
+
+```
+Azure Active Directory (AAD) Tenant
+            |
+    Management Groups
+            |
+      Subscriptions
+            |
+      Resource Groups
+            |
+        Resources
+```
+
 ## Overview
 Azure uses a hierarchical organizational structure to manage resources, governance, billing, and access control. Understanding this hierarchy is crucial for proper Azure administration and architecture.
 
@@ -38,40 +51,3 @@ Azure uses a hierarchical organizational structure to manage resources, governan
   * etc.
 
 ---
-
-# **📘 Official Diagram (ASCII Hierarchy)**
-
-```
-                      +---------------------------+
-                      |      Azure Tenant         |
-                      |     (Entra ID Tenant)     |
-                      +-------------+-------------+
-                                    |
-                         +----------+----------+
-                         |     Management       |
-                         |       Group          |
-                         +----------+----------+
-                                    |
-        -------------------------------------------------
-        |                                               |
-+-------+--------+                             +--------+-------+
-|   Subscription |                             |   Subscription |
-+-------+--------+                             +--------+-------+
-        |                                               |
-   -------------                                   ---------------
-   |           |                                   |             |
-+--+--+    +---+---+                          +----+---+     +---+---+
-| RG1 |    |  RG2  |                          |   RG1   |    |  RG2  |
-+--+--+    +---+---+                          +----+---+     +---+---+
-   |           |                                   |              |
-   |           |                                   |              |
-   |       -------------                       ----------      ----------
-   |       |     |     |                       |    |   |      |    |   |
-+------+ +------+ +-------+                +--------+---+   +-------+---+
-| VM   | | VNet | | Storage|                | AKS Cluster | | Key Vault |
-+------+ +------+ +--------+                +------------+  +-----------+
-```
-
----
-
-If you want a **DevOps-oriented version** or a **real enterprise hierarchy example**, just tell me Bubu 😌🔥
