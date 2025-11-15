@@ -1,5 +1,4 @@
 # Hierrarchy in Azure
-<img src="https://github.com/bhuvan-raj/Azure-Zero-to-Hero/blob/main/assets/hierrarchy.png" alt="Banner" />
 
 ## Overview
 Azure uses a hierarchical organizational structure to manage resources, governance, billing, and access control. Understanding this hierarchy is crucial for proper Azure administration and architecture.
