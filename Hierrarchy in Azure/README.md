@@ -18,7 +18,7 @@ Azure uses a hierarchical organizational structure to manage resources, governan
 
 ---
 
-# **🔥 Full Explanation**
+# ** Full Explanation**
 
 ### **1. Tenant (Entra ID Tenant)**
 
