@@ -1,6 +1,6 @@
 # Phase 1: Cloud Computing Basics - In-Depth Study Guide
 
-<img src="https://github.com/bhuvan-raj/Azure-Zero-to-Hero/blob/main/assets/cloud.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/Azure-Zero-to-Hero/blob/main/assets/cloud.jpg" alt="Banner" />
 
 ## **1. What is Cloud Computing and Why It Matters**
 
