@@ -84,6 +84,9 @@ Cloud computing is the on-demand delivery of computing services—including serv
 
 ## **2. Service Models: IaaS, PaaS, SaaS**
 
+<img src="https://github.com/bhuvan-raj/Azure-Zero-to-Hero/blob/main/assets/service.jpg" alt="Banner" />
+
+
 Cloud services are typically categorized into three main models, often visualized as a stack.
 
 ### **Understanding the Shared Responsibility Model**
