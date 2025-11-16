@@ -662,14 +662,14 @@ Fabrikam-Stage-Sales-AsiaPac-Web
 
 ### **Common Mistakes to Avoid:**
 
-❌ Too many subscriptions (over-segmentation)
-❌ Unclear ownership and responsibility
-❌ Inconsistent naming conventions
-❌ No cost monitoring or budgets
-❌ Overly permissive RBAC assignments
-❌ No disaster recovery plan
-❌ Mixing production and development
-❌ Not using management groups when needed
+- ❌ Too many subscriptions (over-segmentation)
+- ❌ Unclear ownership and responsibility
+- ❌ Inconsistent naming conventions
+- ❌ No cost monitoring or budgets
+- ❌ Overly permissive RBAC assignments
+- ❌ No disaster recovery plan
+- ❌ Mixing production and development
+- ❌ Not using management groups when needed
 
 ---
 
