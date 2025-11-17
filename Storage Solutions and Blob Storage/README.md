@@ -1,4 +1,6 @@
 # In-Depth Study Guide: Azure Storage
+<img src="https://github.com/bhuvan-raj/Azure-Zero-to-Hero/blob/main/assets/storage.png" alt="Banner" />
+
 
 ## **1. Introduction to Azure Storage**
 
